@@ -1,0 +1,12 @@
+table {
+  width: 100%;
+  table-layout: fixed;
+  border:solid black;
+  height: fit-content;
+}
+table tr th {
+  text-align: left;
+  width: 100%;
+  background: gray;
+  color: white;
+}
